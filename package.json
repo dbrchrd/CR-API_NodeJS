@@ -1,0 +1,20 @@
+{
+  "name": "cr-api_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrchrd/CR-API_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrchrd/CR-API_NodeJS/issues"
+  },
+  "homepage": "https://github.com/dbrchrd/CR-API_NodeJS#readme",
+  "description": ""
+}
