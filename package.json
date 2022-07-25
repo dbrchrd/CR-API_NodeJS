@@ -16,5 +16,14 @@
     "url": "https://github.com/dbrchrd/CR-API_NodeJS/issues"
   },
   "homepage": "https://github.com/dbrchrd/CR-API_NodeJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "node-fetch-commonjs": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
