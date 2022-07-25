@@ -16,7 +16,7 @@
     "url": "https://github.com/dbrchrd/CR-API_NodeJS/issues"
   },
   "homepage": "https://github.com/dbrchrd/CR-API_NodeJS#readme",
-  "description": "",
+  "description": "It's just a clone of the official Clash Royale API.",
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
