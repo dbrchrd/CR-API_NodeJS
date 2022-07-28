@@ -1,5 +1,4 @@
 const app = require("express")();
-const fetch = require("node-fetch-commonjs");
 const bodyParser = require("body-parser");
 require("dotenv").config();
 
