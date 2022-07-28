@@ -12,6 +12,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use("/", routes);
 
+app.use("*", (req, res) => {
+  res.status(404).json({ status: 404, message: "Not found." });
+});
+
 app.listen(PORT, HOST, () => {
   console.log(`Listening in port ${PORT}`);
 });
